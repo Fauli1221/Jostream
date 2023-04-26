@@ -1,0 +1,13 @@
+name = "Big Pony"
+filename = "bigpony-1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h9pJxJR9/versions/iqX0zmlX/bigpony-1.8.0.jar"
+hash-format = "sha1"
+hash = "8b237300620699db550bc86cead283c43ff72609"
+
+[update]
+[update.modrinth]
+mod-id = "h9pJxJR9"
+version = "iqX0zmlX"

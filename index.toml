@@ -1,0 +1,161 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "44747e64b28a91cfc1468e14dbb55ac960b4213a20f59fd4116bf817970c6422"
+metafile = true
+
+[[files]]
+file = "mods/big-pony.pw.toml"
+hash = "967b6a9f387406787dec8cc4e9b9d0e261a7a4a4067e4e6460d930ae76e68d2a"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "b1ff809ec34348860c3a403f3d5210f7386ddcda8f0d19c5ff4533fd22abeb08"
+metafile = true
+
+[[files]]
+file = "mods/copper-golem.pw.toml"
+hash = "edc3b62ecf9f9aac3459d34b7fe3539061be1859dcbe59a67c4323dd05607db9"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "beaf8fcc2dbc9098a414bedd5a8ca156084b39f20517fac2ff60ad57f5767202"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "4e2a60e26cb6760c58dd2ed193f071c430b76cb542ebda0394cfacd220c12362"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "cdf6e87246a0519d7e6351c4bf2ba4fae17a058ab8470c8d7bcfa52ac3a07e2b"
+metafile = true
+
+[[files]]
+file = "mods/fabwork.pw.toml"
+hash = "861408b852ee7aec1799dac77c79d03e58fb51878f15a0a718f15b8205c7f87e"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "9892a0024b5f2aeb4dbb9b39f3ebc518c4661ba31b487dd332b879ba22bcc4fd"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "06848036e814be3439e96936bf20dfa3257385f07d9ed6d9b5d2c45855145db9"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
+metafile = true
+
+[[files]]
+file = "mods/hd-skins.pw.toml"
+hash = "526384ceb371ac893a7c08b162cf50ca9acae5a1f5cf8727e651b6c2f14c7afb"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "93255e83ba1978a3e41222593a935413bbbffd4a3014fa74739446ed66ce7f89"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "09d31307f81a06df5ab65ff57c2c830180bbc1138bb8326557172b0a883d6b8b"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "3bca5a31f4a469ca2c833cab5b87093ce809c2b599d6f93c19f78b69b78828a5"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "2dcac529633f402a5a325b8031bf15a06db668b912e6be1596836bde3afb17f1"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "1a8f0c15ae35da293f34bd5eefe13629946cb772e0d714483bc682e8ae35a1a2"
+metafile = true
+
+[[files]]
+file = "mods/mine-little-pony.pw.toml"
+hash = "1f366f98e258274ae38478d84b601c7c1337692a60638395205d98e7aeee2dc0"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "0ac90dcc33473b316b975601f5c69f172e9babae174e7c85ec24281e31903934"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "df11b66e152011f96cc5a4dbf35d2dec99c4373cb19a8c1c761368170d425cf4"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "532d457b24097cb6392eb119812b004a2fcfe8f71268fc4a14701d5daad26be1"
+metafile = true
+
+[[files]]
+file = "mods/psychedelicraft.pw.toml"
+hash = "6a2b3451044e46c91fb05d7fa5cc133e5d1747113f6ba24a2147f112b96e0095"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "1ab96020d0954a72b5cc150b375f57cf8968ac2c1809a000472076f8675eb9ea"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/stringer-things.pw.toml"
+hash = "fdc6a5a44491b752782aa3ed09d0aae52dbee215922fe5e1e77f206ac547800e"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "4d27498ef081e770f7c1516f6d31cd467dffbe15d81d93bed06cbca92093943c"
+metafile = true
+
+[[files]]
+file = "mods/unicopia.pw.toml"
+hash = "e2d56e6ed3de960783750e060f94a073fc677ff36013813649d7cad236fc7485"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "dbc278de3d507cad99715d17c2f4858e58cf7ce5e76c9c59525d5fae7c05172f"
+metafile = true
+
+[[files]]
+file = "mods/void-fog.pw.toml"
+hash = "e8f46a6425a3358e54b73ce0a685b02dd86504b53ea82574db075daba249aca6"
+metafile = true

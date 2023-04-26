@@ -1,0 +1,13 @@
+name = "Jostream"
+author = "Fauli1221"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "db24321bb16a08895b26a7b177392ea91ea4723046bfbe7b3c0e72ac111a1e89"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.19.3"
