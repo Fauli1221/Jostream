@@ -6,6 +6,11 @@ hash = "44747e64b28a91cfc1468e14dbb55ac960b4213a20f59fd4116bf817970c6422"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "53baddcd243ed36dd148b38e8e0249a37e68f40d13b0d1a51149ebfa88b4b6b4"
+metafile = true
+
+[[files]]
 file = "mods/big-pony.pw.toml"
 hash = "967b6a9f387406787dec8cc4e9b9d0e261a7a4a4067e4e6460d930ae76e68d2a"
 metafile = true
@@ -66,6 +71,16 @@ hash = "93255e83ba1978a3e41222593a935413bbbffd4a3014fa74739446ed66ce7f89"
 metafile = true
 
 [[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "daabb13cd15f91338e8c402989ae154a0b0486d4c0eec18be0623528e00a7e72"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "38277c071e79128e516e6f83322775dfd2324a21c4812453e02067b23e3f3b09"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "09d31307f81a06df5ab65ff57c2c830180bbc1138bb8326557172b0a883d6b8b"
 metafile = true
@@ -111,6 +126,11 @@ hash = "df11b66e152011f96cc5a4dbf35d2dec99c4373cb19a8c1c761368170d425cf4"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "80e6f15ebc852ba4e4b6d14dbc2a9d2b3514aac104840f5c279bd4cb726977aa"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "532d457b24097cb6392eb119812b004a2fcfe8f71268fc4a14701d5daad26be1"
 metafile = true
@@ -118,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/psychedelicraft.pw.toml"
 hash = "6a2b3451044e46c91fb05d7fa5cc133e5d1747113f6ba24a2147f112b96e0095"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "792fb787f6144b218372622e340c2954b2b0cb3f41c9738dbe065d2dc2332729"
 metafile = true
 
 [[files]]
@@ -131,6 +156,11 @@ hash = "1ab96020d0954a72b5cc150b375f57cf8968ac2c1809a000472076f8675eb9ea"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "da0d81fb8865755c58eccae520fafbef5bdcae6e5bc577e33e8798ba0c955369"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
@@ -138,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/stringer-things.pw.toml"
 hash = "fdc6a5a44491b752782aa3ed09d0aae52dbee215922fe5e1e77f206ac547800e"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "7d8109543303c680aa1d4d5d4e81548ec602f910ca2e9a32133a07c0dc3c2df7"
 metafile = true
 
 [[files]]
@@ -153,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "dbc278de3d507cad99715d17c2f4858e58cf7ce5e76c9c59525d5fae7c05172f"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "2ab3e7218968c5d346e2e542774740163fab0d40622a2991be2373b0de2deeac"
 metafile = true
 
 [[files]]
