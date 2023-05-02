@@ -16,11 +16,6 @@ hash = "967b6a9f387406787dec8cc4e9b9d0e261a7a4a4067e4e6460d930ae76e68d2a"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "b1ff809ec34348860c3a403f3d5210f7386ddcda8f0d19c5ff4533fd22abeb08"
-metafile = true
-
-[[files]]
 file = "mods/copper-golem.pw.toml"
 hash = "edc3b62ecf9f9aac3459d34b7fe3539061be1859dcbe59a67c4323dd05607db9"
 metafile = true
@@ -183,11 +178,6 @@ metafile = true
 [[files]]
 file = "mods/unicopia.pw.toml"
 hash = "e2d56e6ed3de960783750e060f94a073fc677ff36013813649d7cad236fc7485"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "dbc278de3d507cad99715d17c2f4858e58cf7ce5e76c9c59525d5fae7c05172f"
 metafile = true
 
 [[files]]
