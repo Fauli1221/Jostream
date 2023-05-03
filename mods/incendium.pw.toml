@@ -1,6 +1,6 @@
 name = "Incendium"
 filename = "Incendium_1.19.3_v5.1.6.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZVzW5oNS/versions/ednvmJkC/Incendium_1.19.3_v5.1.6.jar"
