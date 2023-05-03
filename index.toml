@@ -166,13 +166,13 @@ hash = "fdc6a5a44491b752782aa3ed09d0aae52dbee215922fe5e1e77f206ac547800e"
 metafile = true
 
 [[files]]
-file = "mods/structory-towers.pw.toml"
-hash = "b69bb36e39cd8ed8171a373a0cef0a131e05fcd56adac72dd95f40e243160efb"
+file = "mods/structory.pw.toml"
+hash = "ab22e5655439cf6f52b022ec7b945b5fce0b104fe2eec14b566671c09470a4d3"
 metafile = true
 
 [[files]]
-file = "mods/structory.pw.toml"
-hash = "1416161702c00780b4253fcc81cf50799a54c2de08b1b3563a1f3d748a543607"
+file = "mods/structorytowers.pw.toml"
+hash = "b288a91b1a2149784d93576eb43876f322ba8088ae5f90d820c32afd43a45e86"
 metafile = true
 
 [[files]]
