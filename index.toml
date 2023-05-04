@@ -96,6 +96,11 @@ hash = "2dcac529633f402a5a325b8031bf15a06db668b912e6be1596836bde3afb17f1"
 metafile = true
 
 [[files]]
+file = "mods/mcr_blahaj.pw.toml"
+hash = "313caf9b999ff43f310f206b0c2eba85ce604bd26cbfe29901e3325d2e531c80"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
