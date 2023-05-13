@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/unicopia.pw.toml"
-hash = "d0f3d04fa79d8a0f162e0ddf5c120ef62f3fc44e4a751ac00a78aacf5504206a"
+hash = "b05dea0a33632a4bfc7ee52bc1264e3897e9733eb03bd239450929f89f918a61"
 metafile = true
 
 [[files]]

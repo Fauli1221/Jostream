@@ -1,13 +1,7 @@
 name = "Unicopia"
-filename = "Unicopia-1.1.0-beta.0.4220230502T200251Z.jar"
-side = "both"
+filename = "Unicopia-0.1.0-beta.0.020230513T211135Z.jar"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/948942836513001502/1103050608807788554/Unicopia-1.1.0-beta.0.4220230502T200251Z.jar"
+url = "https://cdn.discordapp.com/attachments/934082078876786738/1107053281215262841/Unicopia-0.1.0-beta.0.020230513T211135Z.jar"
 hash-format = "sha1"
-hash = "ff0fe338998ab0bfc2b7662809ce5cd507fd86b8"
-
-[update]
-[update.modrinth]
-mod-id = "9K7RJlvM"
-version = "QD88T9ro"
+hash = "afda98bcbca160390bfbb8f502be133d1ab41d3d"
