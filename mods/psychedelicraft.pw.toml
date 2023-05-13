@@ -1,7 +1,7 @@
 name = "Psychedelicraft"
-filename = "psychedelicraft-1.6.0-beta.11.jar"
+filename = "psychedelicraft-1.6.0-beta.12.jar"
 
 [download]
-url = "https://github.com/Sollace/Psychedelicraft/releases/download/1.6.0-beta.11/psychedelicraft-1.6.0-beta.11.jar"
+url = "https://cdn.discordapp.com/attachments/934082078876786738/1106578435146534973/psychedelicraft-1.6.0-beta.12.jar"
 hash-format = "sha1"
-hash = "45abc0fbef6bd0fcbbb2b8d133b4168ae28dc39f"
+hash = "3b37bf833a8a1a995d9bba3085fabc90f47f8c4c"
